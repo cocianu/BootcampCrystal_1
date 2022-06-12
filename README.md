@@ -2,7 +2,8 @@
 Bootcamp Sesiunea 1
 
 
-NOTES: 
+NOTES :) 
+
        Ex9 "vampire number"- gasit cod pe github :) ideea e simpla totusi.
 
        Ex10 Kalah game - implemenat-ish da niste erori specifice la recusivitate....nu i-am dat de cap inca.
